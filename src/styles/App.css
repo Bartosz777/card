@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: yellow;
+    background-color: rgb(68,67,70);
+    min-height: 100vh;
+}
+
+header {
+    width: 100%;
+}
+
+main {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    background-color: darkgoldenrod;
+}

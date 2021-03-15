@@ -1,0 +1,32 @@
+.content {
+    text-indent: 30px;
+    min-height: 82.5vh;
+    padding: 20px 100px 10px 100px;
+    text-align: justify;
+}
+
+h2 {
+    letter-spacing: 3px;
+}
+
+.sent {
+    position: relative;
+    letter-spacing: 2px;
+    text-align: center;
+    left: 30px;
+}
+
+.sign {
+    position: absolute;
+    right: 100px;
+}
+
+.content .link {
+    text-decoration: none;
+    color:rgba(251, 255, 0, 0.479);
+}
+
+.content .link:hover {
+    color:rgba(251, 255, 0, 0.479);
+    color: rgb(250, 253, 37);
+}

@@ -1,0 +1,15 @@
+.head {
+    height: 8vh;
+    padding: 10px 0;
+}
+
+.head .logo {
+    height: 8vh;
+    width: 10%;
+    float: left;
+    border-right: 1px solid grey;
+    text-align: center;
+}
+.head .logo img {
+    height: 8vh;
+}

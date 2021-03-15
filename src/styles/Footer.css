@@ -1,0 +1,9 @@
+.foot {
+    position: fixed;
+    bottom: 0;
+    height: 3vh;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+

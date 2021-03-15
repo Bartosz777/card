@@ -1,0 +1,59 @@
+span {
+    display: inline-block;
+    padding-bottom: 40px;
+}
+
+form {
+    text-align: center;
+}
+
+form label {
+    display: block;
+    padding: 25px 0;
+
+}
+
+form label:nth-child(2) {
+    position: relative;
+    left: -30px;
+}
+
+form label input, form label textarea  {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+form label span{
+    vertical-align: top;
+}
+
+
+form label input:nth-child(1):focus {
+    background-color:gray;
+    color: yellow;
+}
+
+form label textarea:focus {
+    background-color:gray;
+    color: yellow;
+}
+
+form label input:nth-child(3):focus {
+    background-color: gray;
+    color: yellow;
+}
+
+form button {
+    border-radius: 10px;
+    width: 10em;
+    position: relative;
+    left: 35px;
+    background-color:rgb(0, 0, 0);
+    color: yellow;
+    border: 1px solid lightgray;
+}
+
+form button:hover {
+    cursor: pointer;
+    background-color: gray;
+}
