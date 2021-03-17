@@ -1,5 +1,5 @@
 {
-  "main.css": "/card/static/css/main.71dc97c0.chunk.css",
+  "main.css": "/card/static/css/main.9655ce53.chunk.css",
   "main.js": "/card/static/js/main.7c0d539f.chunk.js",
   "main.js.map": "/card/static/js/main.7c0d539f.chunk.js.map",
   "runtime~main.js": "/card/static/js/runtime~main.3c9c83e0.js",
@@ -7,8 +7,8 @@
   "static/js/2.46254229.chunk.js": "/card/static/js/2.46254229.chunk.js",
   "static/js/2.46254229.chunk.js.map": "/card/static/js/2.46254229.chunk.js.map",
   "index.html": "/card/index.html",
-  "precache-manifest.3c04b555bd1b0c1273d420c1824842ac.js": "/card/precache-manifest.3c04b555bd1b0c1273d420c1824842ac.js",
+  "precache-manifest.d67a6c1e361750c2afb9ba5118548eb8.js": "/card/precache-manifest.d67a6c1e361750c2afb9ba5118548eb8.js",
   "service-worker.js": "/card/service-worker.js",
-  "static/css/main.71dc97c0.chunk.css.map": "/card/static/css/main.71dc97c0.chunk.css.map",
+  "static/css/main.9655ce53.chunk.css.map": "/card/static/css/main.9655ce53.chunk.css.map",
   "static/media/smile.svg": "/card/static/media/smile.52830b1b.svg"
 }
